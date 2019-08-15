@@ -52,13 +52,13 @@
             <div class="slider-parallax-inner">
 
                 <div class="row full-screen">
-                    <div class="col-lg-7 col-md-6 full-screen center nopadding" style="background: url('images/page/main.jpg') center center no-repeat; background-size: cover;">
+                    <div class="col-lg-7 col-md-6 full-screen center nopadding" style="background: url('plumbing.jpg') center center no-repeat; background-size: cover;">
                         <div class="vertical-middle dark center clearfix" style="z-index: 2;">
 
                             <div class="emphasis-title nobottommargin">
                                 <h1>
                                     <span class="text-rotater nocolor" data-separator="|" data-rotate="fadeIn" data-speed="6000">
-                                        <span class="t-rotate t700 font-body opm-medium-word">canvas.|different.|creative.|digital.|vision.</span>
+                                        <span class="t-rotate t700 font-body opm-medium-word">Misleading.| Bad Work. | No Permits. | Billing Problems</span>
                                     </span>
                                 </h1>
                             </div>
