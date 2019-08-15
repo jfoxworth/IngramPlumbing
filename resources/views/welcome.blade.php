@@ -8,8 +8,8 @@
     <!-- Stylesheets
     ============================================= -->
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700|Roboto:300,400,700" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="../css/bootstrap.css" type="text/css" />
-    <link rel="stylesheet" href="../style.css" type="text/css" />
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
 
     <!-- One Page Module Specific Stylesheet -->
     <link rel="stylesheet" href="css/onepage.css" type="text/css" />
@@ -23,7 +23,7 @@
 
     <link rel="stylesheet" href="css/fonts.css" type="text/css" />
 
-    <link rel="stylesheet" href="../css/responsive.css" type="text/css" />
+    <link rel="stylesheet" href="css/responsive.css" type="text/css" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 
