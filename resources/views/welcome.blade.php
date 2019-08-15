@@ -73,7 +73,7 @@
                         <div class="vertical-middle subscribe-widget" data-loader="button">
                             <div class="col-padding">
                                 <div class="heading-block nobottomborder bottommargin-sm">
-                                    <h1 style="line-height: 1.4;font-size: 24px;">This page is about our experience with Ingram Plumbing in League City, Texas</h1>
+                                    <h1 style="line-height: 1.4;font-size: 24px;">Our experience with Ingram Plumbing in League City, Texas</h1>
                                     <span style="font-size:16px; top-margin: 20px;" class="t300">This page describes how Ingram Plumbing mislead us as to the work they would perform, grossly overcharged us, failed to get permits and inspections, did poor work, overbilled hours, and had generally poor behavior.</span>
                                 </div>
                             </div>
