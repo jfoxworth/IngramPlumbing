@@ -12,14 +12,14 @@
     <link rel="stylesheet" href="../style.css" type="text/css" />
 
     <!-- One Page Module Specific Stylesheet -->
-    <link rel="stylesheet" href="onepage.css" type="text/css" />
+    <link rel="stylesheet" href="css/onepage.css" type="text/css" />
     <!-- / -->
 
-    <link rel="stylesheet" href="../css/dark.css" type="text/css" />
-    <link rel="stylesheet" href="../css/font-icons.css" type="text/css" />
+    <link rel="stylesheet" href="css/dark.css" type="text/css" />
+    <link rel="stylesheet" href="css/font-icons.css" type="text/css" />
     <link rel="stylesheet" href="css/et-line.css" type="text/css" />
-    <link rel="stylesheet" href="../css/animate.css" type="text/css" />
-    <link rel="stylesheet" href="../css/magnific-popup.css" type="text/css" />
+    <link rel="stylesheet" href="css/animate.css" type="text/css" />
+    <link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
 
     <link rel="stylesheet" href="css/fonts.css" type="text/css" />
 
@@ -30,6 +30,8 @@
     <!-- Document Title
     ============================================= -->
     <title>One Page with Common Height Content Sections | Canvas</title>
+
+
 
 </head>
 
