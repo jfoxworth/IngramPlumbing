@@ -92,6 +92,8 @@
 
             <div class="content-wrap nopadding">
 
+                <!-- Summary
+                ============================================= -->
                 <div id="section-about" class="center page-section">
 
                     <div class="container clearfix">
@@ -107,134 +109,47 @@
 
                 </div>
 
+
+
+                <!-- Summary - Break
+                ============================================= -->
                 <div id="section-works" class="page-section notoppadding">
-
-                    <div class="section nomargin">
-                        <div class="container clearfix">
-                            <div class="divcenter center" style="max-width: 900px;">
-                                <h2 class="nobottommargin t300 ls1">This site was created to help ensure that no one else has to go through this experience.</h2>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div id="section-services" class="page-section notoppadding">
-
-                    <div class="section nomargin">
-                        <div class="container clearfix">
-                            <div class="divcenter center" style="max-width: 900px;">
-                                <h2 class="nobottommargin t300 ls1">We enjoy working on the Services &amp; Products we provide as much as you need them. This help us in delivering your Goals easily. Browse through the wide range of services we provide.</h2>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row align-items-stretch">
-
-                        <div class="col-lg-4 d-none d-md-block" style="background: url('../images/services/main-bg.jpg') center center no-repeat; background-size: cover;"></div>
-                        <div class="col-lg-8">
-                            <div>
-                                <div class="row align-items-stretch grid-border clearfix">
-                                    <div class="col-lg-4 col-md-6 col-padding">
-                                        <div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
-                                            <div class="fbox-icon">
-                                                <a href="#"><i class="icon-et-mobile"></i></a>
-                                            </div>
-                                            <h3>Responsive Framework</h3>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 col-md-6 col-padding">
-                                        <div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
-                                            <div class="fbox-icon">
-                                                <a href="#"><i class="icon-et-presentation"></i></a>
-                                            </div>
-                                            <h3>Beautifully Presented</h3>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 col-md-6 col-padding">
-                                        <div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
-                                            <div class="fbox-icon">
-                                                <a href="#"><i class="icon-et-puzzle"></i></a>
-                                            </div>
-                                            <h3>Extensively Extendable</h3>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 col-md-6 col-padding">
-                                        <div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
-                                            <div class="fbox-icon">
-                                                <a href="#"><i class="icon-et-gears"></i></a>
-                                            </div>
-                                            <h3>Powerfully Customizable</h3>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 col-md-6 col-padding">
-                                        <div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
-                                            <div class="fbox-icon">
-                                                <a href="#"><i class="icon-et-genius"></i></a>
-                                            </div>
-                                            <h3>Geniusly Transformable</h3>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 col-md-6 col-padding">
-                                        <div class="feature-box fbox-center fbox-dark fbox-plain fbox-small nobottomborder">
-                                            <div class="fbox-icon">
-                                                <a href="#"><i class="icon-et-hotairballoon"></i></a>
-                                            </div>
-                                            <h3>Industrial Support</h3>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
 
                     <div class="section dark nomargin">
                         <div class="divcenter center" style="max-width: 900px;">
-                            <h2 class="nobottommargin t300 ls1">Like Our Services? Get an <a href="#" data-scrollto="#template-contactform" data-offset="140" data-easing="easeInOutExpo" data-speed="1250" class="button button-border button-circle button-light button-large notopmargin nobottommargin" style="position: relative; top: -3px;">Instant Quote</a></h2>
+                            <h2 class="nobottommargin t300 ls1">This site was created so that no one else would have to go through this same experience</h2>
                         </div>
                     </div>
 
-                    <div class="section parallax nomargin dark" style="background-image: url('images/page/testimonials.jpg'); padding: 150px 0;" data-bottom-top="background-position:0px 0px;" data-top-bottom="background-position:0px -300px;">
+                </div>
 
-                        <div class="container clearfix">
 
-                            <div class="col_two_fifth nobottommargin">&nbsp;</div>
 
-                            <div class="col_three_fifth nobottommargin col_last">
 
-                                <div class="fslider testimonial testimonial-full nobgcolor noborder noshadow nopadding" data-arrows="false">
-                                    <div class="flexslider">
-                                        <div class="slider-wrap">
-                                            <div class="slide">
-                                                <div class="testi-content">
-                                                    <p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque vero numquam?</p>
-                                                    <div class="testi-meta">
-                                                        Steve Jobs
-                                                        <span>Apple Inc.</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="slide">
-                                                <div class="testi-content">
-                                                    <p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
-                                                    <div class="testi-meta">
-                                                        Collis Ta'eed
-                                                        <span>Envato Inc.</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="slide">
-                                                <div class="testi-content">
-                                                    <p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
-                                                    <div class="testi-meta">
-                                                        John Doe
-                                                        <span>XYZ Inc.</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                <!-- The Leak
+                ============================================= -->
+                <div id="section-contact" class="page-section notoppadding">
+
+                    <div class="row noleftmargin norightmargin bottommargin-lg align-items-stretch">
+                        
+                        <div id="" class="col-lg-8 col-md-6 gmap d-none d-md-block">
+                            <img src="images/shower15.jpg" alt="Leak Photo">
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" style="background-color: #F5F5F5;">
+                            <div class="col-padding">
+                                <h3 class="font-body t400 ls1">The Leak</h3>
+
+                                <div style="font-size: 16px; line-height: 1.7;">
+                                    <address style="line-height: 1.7;">
+                                        In March of 2019, the shower in our master bathroom leaked and caused discoloration in the ceiling on the first floor.<br>
+
+                                        We had previously used Ingram Plumbing to install a tankless hot water system. We knew that their prices were a little higher than others, but we were willing to use them because we expected a high quality job.<br>
+
+                                        Ingram assisted us with our insurance claim, initially putting the cost to repair the shower, structure, and surround items at $10,000. The final cost from the insurance was roughly $5,700.
+
+                                    </address>
+
                                 </div>
 
                             </div>
@@ -243,7 +158,9 @@
 
                     </div>
 
-                </div>
+
+
+
 
                 <div id="section-blog" class="page-section">
 
