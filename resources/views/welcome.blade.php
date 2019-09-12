@@ -114,7 +114,7 @@
 									<span class="before-heading font-secondary">It begins</span>
 									<h2 style="font-size: 46px;" class="font-body t700">The leak!</h2>
 								</div>
-								<p style="color: #777;" class="lead">In the summer of 2019, we noticed that the ceiling in our dining room was discolored. Fearing that the shower above the water mark was leaking and having recently used Ingram Plumbing to install a tankless water system, we called them to investigate the problem. The eventual conclusion was that the shower pan would have to be removed and replaced.</p>
+								<p style="color: #777;" class="lead">In May of 2019, we noticed that the ceiling in our dining room was discolored. Fearing that the shower above the stain was leaking and having recently used Ingram Plumbing to install a tankless water system, we called them to investigate the problem. We liked the fact that the company was family owned and that it advertised as a Christian company. The eventual conclusion from them was that the shower pan would have to be removed and replaced.</p>
 							</div>
 							<div class="col-md-7 col-sm-5" style="background: url('https://ingramplumbing.s3.us-east-2.amazonaws.com/leak1.jpg') center bottom no-repeat; background-size: cover;"">
 							</div>
@@ -132,10 +132,12 @@
 								<div class="emphasis-title bottommargin-sm">
 									<h2 style="font-size: 46px;" class="font-body t700">Insurance and remodeling</h2>
 								</div>
-								<p style="color: #777;" class="lead">Since we had worked with Ingram Plumbing in the past, we had them put in a bid to the insurance company. That work was carried out by John Ingram. Their initial bid of roughly $10,000 had no specifics. They spoke with our insurance and the two of them agreed that an amount of roughly $5,600 would be enough to cover the total costs. This would be the cost to repair the damaged floor and structure, the ceiling, and the shower.</p>
-								<p style="color: #777;" class="lead">Despite agreeing with this amount from the insurance company, Ingram Plumnbing repeatedly told us that the actual cost to repair the structure and the shower would be much more. Having done some work myself in the past, I chose to use this as a chance to remodel the bathroom.</p>
 
-								<p style="color: #777;" class="lead">I initially looked at doing the entire remodel myself, but Ingram Plumber informed me that a permit and inspections were required for the shower. Given this, we decided to hire them to fix the structure and build the shower structure. We were explicit in two things - that permits and inspections were mandatory and that the shower should be built to a point where the only remaining work left would be to put the tile on the walls.</p>
+								<p style="color: #777;" class="lead">For the first step, a USAA inspector came out and estimated a cost of $6273.72 to demo and repair the shower, repair the shower subfloor, repair the ceiling in the dining room, and to repair the walls in the closet that were cut open to find the leak.</p>
+
+								<p style="color: #777;" class="lead">Since we had worked with Ingram Plumbing in the past and they were placing the work at around $10,000, we had them put in an estimate to the insurance company. That work was carried out by John Ingram. Their initial bid of roughly $10,000 had no specifics. They spoke with our insurance and the two of them agreed that the previous amount of $6273 was correct. Looking back, the should have been a massive red flag.</p>
+
+								<p style="color: #777;" class="lead">Having done some work myself in the past, I chose to use this as a chance to remodel the bathroom. I initially looked at doing the entire remodel myself, but Ingram Plumber informed me that a permit and inspections were required for the shower. Given this, we decided to hire them to fix the structure and build the shower structure. We were explicit in two things - that permits and inspections were mandatory and that the shower should be built to a point where the only remaining work left would be to put the tile on the walls.</p>
 
 								<p style="color: #777;" class="lead">It should be reiterated that we explicitely stated that the shower should have the pan, mortar bed, threshold, and anything else needed with the only remaining item being the installation of the tile. It was not stated, but assumed that a moisture barrier and anything else needed for inspections would be done.</p>
 
@@ -171,9 +173,9 @@
 									<span class="before-heading font-secondary">Words don't mean what you think</span>
 									<h2 style="font-size: 46px;" class="font-body t700">The Contract</h2>
 								</div>
-								<p style="color: #777;" class="lead">The contract drew up by Ingram had 6 bullet points outlining the work with a payment schedule of 50% at start, 40% at completion of shower liner, 10% at inspection. Note that 10% of the fee depended upon completing inspections. The work was outlined as follows.</p>
+								<p style="color: #777;" class="lead">The contract drawn up by Ingram had 6 bullet points outlining the work with a payment schedule of 50% at start, 40% at completion of shower liner, 10% at inspection. Note that 10% of the fee depended upon completing inspections. The work was outlined as follows.</p>
 
-								<ul>
+								<ul class="lead" style="margin-left:60px">
 									<li>Repair floor joists to support subfloor</li>
 									<li>Move cold water line into wall</li>
 									<li>Install new valve and trim furnished by owner</li>
@@ -182,13 +184,81 @@
 									<li>Prep shower with backer board ready for tile work</li>
 								</ul>
 
-								<p>Note that the contract specifically calls out that repair to the joists is neeed and will be done. It notes the 24hr shower pan test. It also uses the phrase "ready for tile work" which we believe reflected our desire that the only remaining task be to install the tile. The contract was signed by Richard Ingram, the master plumber for the company and father of John Ingram.</p>
+								<p style="color: #777;" class="lead">Note that the contract specifically calls out that repair to the joists is neeed and will be done. It notes the 24hr shower pan test. It also uses the phrase "ready for tile work" which we believe reflected our desire that the only remaining task be to install the tile. The contract was signed by Richard Ingram, the master plumber for the company and father of John Ingram.</p>
 
 							</div>
 						</div>
 					</div>
 				</div>
 
+
+
+
+
+
+
+
+				<div class="section nomargin" style="padding: 80px 0 180px;">
+					<div class="container clearfix">
+						<div class="row clearfix">
+							<div class="col-md-12 col-sm-12">
+								<div class="notopmargin hidden-xs hidden-sm"></div>
+								<div class="emphasis-title bottommargin-sm">
+									<span class="before-heading font-secondary">Doing the work. Or Not. Whatever</span>
+									<h2 style="font-size: 46px;" class="font-body t700">The Work</h2>
+								</div>
+								
+								<p style="color: #777;" class="lead">Work was scheduled to start on Monday, June 24 and we were told that they would be done by Wednesday. We demolished the shower, bathroom floor, and vanities ourselves and I took the week of July 1-5 off work to do the flooring and other work necessary to put in new vanities.</p>
+
+								<p style="color: #777;" class="lead">No one showed up on June 24th and 25th. This was blamed on rain. There was about 4 hours of work done on Wednesday the 26th and about 8 hours on Thursday the 27th.</p>
+
+								<p style="color: #777;" class="lead">During this time, I expressed concern to John Ingram that the workers had put up backer board for the walls with no water and vapor barrier behind the backer board and with holes and large spaces within the boards.</p>
+
+								<p style="color: #777;" class="lead">John Ingram then told me that he had never seen tar paper or any other barrier in a shower and that he was completely unaware of any such practice ever being carried out. I told him that I had worked in numerous houses and that I had never seen a shower without tar paper or some other barrier behind the wall - including the shower that previously existed in our house. He again repeated that he had never heard of “Red Guard,” “AquaDefense,” or any other topical moisture barrier system and that in all of his years of plumbing he had never seen or heard of a moisture barrier of any kind.</p>
+
+								<p style="color: #777;" class="lead">Mr Ingram's demeanor made it obvious that he was mocking me and he walked away. This was obviously a problem. From here on out, I watched the work being done much more closely. Mr Ingram remained adamant that the backer boards could not be removed at this point.</p>
+
+								<p style="color: #777;" class="lead">No one showed up on Friday, June 28th. When I called to find out why, they simply said that their people were working other projects.</p>
+
+								<p style="color: #777;" class="lead">I told the manager at the company that I had taken measures to complete the bathroom the following week and that he needed to do something to complete the work ASAP. John Ingram told me that people would be out first thing Monday and that it would be completed by Tuesday.</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+
+
+
+				<div class="section nomargin" style="padding: 80px 0 180px;">
+					<div class="container clearfix">
+						<div class="row clearfix">
+							<div class="col-md-12 col-sm-12">
+								<div class="notopmargin hidden-xs hidden-sm"></div>
+								<div class="emphasis-title bottommargin-sm">
+									<span class="before-heading font-secondary">Things can always get worse</span>
+									<h2 style="font-size: 46px;" class="font-body t700">The Flood Test</h2>
+								</div>
+								
+								<p style="color: #777;" class="lead">Four people showed up on Monday and worked until about noon. This included the master plumber, Richard Ingram. When they told me that they were finished, the shower was in the state given in the images below and available here and here.</p>
+
+								<p style="color: #777;" class="lead">The dark area at the center of the shower floor is water. The board on the right is wedged into place to hold the backerboard that had been epoxied onto the inside of the threshold.</p>
+
+								<p style="color: #777;" class="lead">When presented with this, I asked if this was the flood test and John Ingram told me that it was. I asked if this was how the code specified the test was to be run and he assured me that it was.</p>
+
+								<p style="color: #777;" class="lead">I also asked if there was wood behind both walls to hold the frameless door and he told me that there absolutely was - despite the fact that I could clearly see there was wood in only one wall.</p>
+
+							</div>
+						</div>
+						<div class="row clearfix">
+							<div class="col-md-6 col-sm-6" style="background: url('https://ingramplumbing.s3.us-east-2.amazonaws.com/shower8.jpg') center bottom no-repeat; background-size: cover;"">
+							</div>
+							<div class="col-md-6 col-sm-6" style="background: url('https://ingramplumbing.s3.us-east-2.amazonaws.com/shower14.jpg') center bottom no-repeat; background-size: cover;"">
+							</div>
+						</div>
+					</div>
+				</div>
 
 
 
