@@ -5,6 +5,12 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="author" content="SemiColonWeb" />
 
+    <meta property="og:title" content="Ingram Plumber in League City, Texas - Our experience">
+    <meta property="og:image" content="">
+    <meta property="og:description" content="This site covers our experience using Ingram plumbing in League City, Texas for a shower rebuild. It is intended to serve as a warning to those seeking honest plumbing work.">
+    <meta name="csrf-token" content="{{ csrf_token() }}">
+
+
     <!-- Stylesheets
     ============================================= -->
     <link href="http://fonts.googleapis.com/css?family=Poppins:300,400,400italic,600,700%7CPlayfair+Display:400,400italic,700%7CLato:300,400,700" rel="stylesheet" type="text/css" />
@@ -34,7 +40,7 @@
 
     <!-- Document Title
     ============================================= -->
-    <title>Gym | Canvas</title>
+    <title>Ingram Plumbing - Our Experience</title>
 
     <style>
         .tp-caption.Gym-Display,
@@ -52,63 +58,6 @@
     ============================================= -->
     <div id="wrapper" class="clearfix">
 
-        <!-- Header
-        ============================================= -->
-        <header id="header" class="full-header transparent-header dark" data-sticky-class="not-dark">
-
-            <div id="header-wrap">
-
-                <div class="container clearfix">
-
-                    <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
-
-                    <div class="d-md-block d-lg-flex justify-content-between">
-                        <!-- Logo
-                        ============================================= -->
-                        <div id="logo" class="m-0" style="width: 156px;">
-                            <a href="index.html" class="standard-logo" data-dark-logo="demos/gym/images/logo-dark.png"><img src="demos/gym/images/logo.png" alt="Canvas Logo"></a>
-                            <a href="index.html" class="retina-logo" data-dark-logo="demos/gym/images/logo-dark@2x.png"><img src="demos/gym/images/logo@2x.png" alt="Canvas Logo"></a>
-                        </div><!-- #logo end -->
-
-                        <!-- Primary Navigation
-                        ============================================= -->
-                        <nav id="primary-menu" class="fnone not-dark">
-
-                            <ul class="norightborder m-0 p-0">
-                                <li class="current"><a href="index.html"><div>Home</div></a></li>
-                                <li><a href="index.html"><div>About</div></a>
-                                    <ul>
-                                        <li class="current"><a href="index.html"><div>Home</div></a></li>
-                                        <li><a href="index.html"><div>About</div></a></li>
-                                        <li><a href="index.html"><div>Classes</div></a></li>
-                                        <li><a href="index.html"><div>Gallery</div></a></li>
-                                        <li><a href="index.html"><div>Pricing</div></a></li>
-                                        <li><a href="index.html"><div>Contact</div></a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="index.html"><div>Classes</div></a></li>
-                                <li><a href="index.html"><div>Gallery</div></a></li>
-                                <li><a href="index.html"><div>Pricing</div></a></li>
-                                <li><a href="index.html"><div>Contact</div></a></li>
-                            </ul>
-
-                        </nav>
-
-                        <!-- Top Search
-                        ============================================= -->
-                        <div id="top-search">
-                            <a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
-                            <form action="search.html" method="get">
-                                <input type="text" name="q" class="form-control" value="" placeholder="Type &amp; Hit Enter..">
-                            </form>
-                        </div><!-- #top-search end -->
-                    </div>
-
-                </div>
-
-            </div>
-
-        </header><!-- #header end -->
 
         <!-- Slider
         ============================================= -->
@@ -119,23 +68,20 @@
                     <div class="swiper-slide dark" style="background-image: url('https://ingramplumbing.s3.us-east-2.amazonaws.com/showerDark.jpg'); background-size: cover">
                         <div class="container clearfix">
                             <div class="slider-caption slider-caption-center">
-                                <h2>You Earn Your Body.</h2>
+                                <h2>Ingram Plumbing - Our Experience</h2>
+                                <p class="categories-lists">This site serves as placeholder of our experiences with Ingram Plumbing in League City, Texas. It is intended to serve as a cautionary tale for those looking for honest contractor and plumbing work.</p>
                                 <div class="d-md-flex divcenter d-none categories-lists mt-5" style="width: 60%;">
                                     <div class="mr-auto">
-                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>No Monthly Commitment</span>
-                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>Locker Facility</span>
-                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>1 Day Free Pass</span>
-                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>Sauna &amp; Steam Available</span>
+                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>No permits or inspections</span>
+                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>Misrepresenting the problem</span>
+                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>Failure to run basic tests</span>
+                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>Flat out lying</span>
                                     </div>
                                     <div class="">
-                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>1 User Valid</span>
-                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>Shower Room</span>
-                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>Free WiFi Access</span>
+                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>Over billing hours</span>
+                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>Billing for work not done</span>
+                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>Unprofessional Behavior</span>
                                     </div>
-                                </div>
-                                <div class="d-flex justify-content-center align-items-center divcenter categories-lists mt-4">
-                                    <div class="d-flex t600 ml-2 mb-0 p-2 h5 text-dark center justify-content-center align-items-center" style="background: url('demos/gym/images/brush.png')no-repeat center center / cover; width: 180px; height: 50px"><span class="align-self-center">$19.99/m</span></div>
-                                    <a href="#" class="button button-rounded button-large nott ml-4 align-self-center">Reserve Now</a>
                                 </div>
                             </div>
                         </div>
@@ -184,10 +130,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- Slider Arrows
-                ============================================= -->
-                <div class="slider-arrow-left nobg"><i class="icon-line-arrow-left"></i></div>
-                <div class="slider-arrow-right nobg"><i class="icon-line-arrow-right"></i></div>
             </div>
 
             <!-- Slider Mouse Icon
