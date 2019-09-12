@@ -660,8 +660,8 @@
     ============================================= -->
     <script src="js/jquery.js"></script>
     <script src="js/plugins.js"></script>
-    <script src="demos/gym/js/event.move.js"></script>
-    <script src="demos/gym/js/changer.js"></script>
+    <script src="js/event.move.js"></script>
+    <script src="js/changer.js"></script>
 
     <!-- Footer Scripts
     ============================================= -->
