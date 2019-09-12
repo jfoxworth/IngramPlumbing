@@ -127,29 +127,12 @@
 				<div class="section nomargin" style="padding: 80px 0 180px;">
 					<div class="container clearfix">
 						<div class="row clearfix">
-							<div class="col-md-7 col-sm-5" style="background: url('https://ingramplumbing.s3.us-east-2.amazonaws.com/leak1.jpg') center bottom no-repeat; background-size: cover;"">
-							</div>
-							<div class="col-md-5 col-sm-7">
+							<div class="col-md-12 col-sm-12">
 								<div class="notopmargin hidden-xs hidden-sm"></div>
 								<div class="emphasis-title bottommargin-sm">
-									<h2 style="font-size: 46px;" class="font-body t700">Insurance</h2>
+									<h2 style="font-size: 46px;" class="font-body t700">Insurance and remodeling</h2>
 								</div>
 								<p style="color: #777;" class="lead">Since we had worked with Ingram Plumbing in the past, we had them put in a bid to the insurance company. That work was carried out by John Ingram. Their initial bid of roughly $10,000 had no specifics. They spoke with our insurance and the two of them agreed that an amount of roughly $5,600 would be enough to cover the total costs. This would be the cost to repair the damaged floor and structure, the ceiling, and the shower.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-
-
-
-				<div class="section nomargin" style="padding: 80px 0 180px;">
-					<div class="container clearfix">
-						<div class="row clearfix">
-							<div class="col-md-5 col-sm-7">
-								<div class="notopmargin hidden-xs hidden-sm"></div>
-								<div class="emphasis-title bottommargin-sm">
-									<h2 style="font-size: 46px;" class="font-body t700">Let's remodel</h2>
-								</div>
 								<p style="color: #777;" class="lead">Despite agreeing with this amount from the insurance company, Ingram Plumnbing repeatedly told us that the actual cost to repair the structure and the shower would be much more. Having done some work myself in the past, I chose to use this as a chance to remodel the bathroom.</p>
 
 								<p style="color: #777;" class="lead">I initially looked at doing the entire remodel myself, but Ingram Plumber informed me that a permit and inspections were required for the shower. Given this, we decided to hire them to fix the structure and build the shower structure. We were explicit in two things - that permits and inspections were mandatory and that the shower should be built to a point where the only remaining work left would be to put the tile on the walls.</p>
@@ -165,19 +148,24 @@
 
 
 
-				<div class="section topmargin bottommargin dark" style="padding: 80px 0 180px;">
+				<div class="section topmargin bottommargin dark" style="padding: 80px 0px 80px;">
 					<div class="container clearfix">
 						<div class="row clearfix">
-							<h3>As you read this site, remember that this is a cautionary tale about the dangers of immoral businesses. Make sure that you get everything in writing and that permits and inspections are carried out.</h3>
+							<h3>This is a cautionary tale about the dangers of immoral businesses. Make sure that you get everything in writing and that permits and inspections are carried out.</h3>
 						</div>
 					</div>
 				</div>
 
 
+
+
+
+
+
 				<div class="section nomargin" style="padding: 80px 0 180px;">
 					<div class="container clearfix">
 						<div class="row clearfix">
-							<div class="col-md-5 col-sm-7">
+							<div class="col-md-12 col-sm-12">
 								<div class="notopmargin hidden-xs hidden-sm"></div>
 								<div class="emphasis-title bottommargin-sm">
 									<span class="before-heading font-secondary">Words don't mean what you think</span>
@@ -194,14 +182,17 @@
 									<li>Prep shower with backer board ready for tile work</li>
 								</ul>
 
-								<p>Note that the contract specifically calls out that repair to the joists is neeed and will be done. It notes the 24hr shower pan test. It also uses the phrase "ready for tile work" which we believe reflected our desire that the only remaining task be to install the tile.</p>
+								<p>Note that the contract specifically calls out that repair to the joists is neeed and will be done. It notes the 24hr shower pan test. It also uses the phrase "ready for tile work" which we believe reflected our desire that the only remaining task be to install the tile. The contract was signed by Richard Ingram, the master plumber for the company and father of John Ingram.</p>
 
-							</div>
-							<div class="col-md-7 col-sm-5" style="background: url('https://ingramplumbing.s3.us-east-2.amazonaws.com/leak1.jpg') center bottom no-repeat; background-size: cover;"">
 							</div>
 						</div>
 					</div>
 				</div>
+
+
+
+
+
 
 
 				<div class="section dark nomargin" style="background-color: #111; padding: 20px 0;">
