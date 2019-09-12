@@ -68,7 +68,8 @@
                     <div class="swiper-slide dark" style="background-image: url('https://ingramplumbing.s3.us-east-2.amazonaws.com/showerDark.jpg'); background-size: cover">
                         <div class="container clearfix">
                             <div class="slider-caption slider-caption-center">
-                                <h2>Ingram Plumbing - Our Experience</h2>
+                                <h2>Ingram Plumbing</h2>
+                                <h3 style="#ccc">Our Experience</h3>
                                 <p class="categories-lists">This site serves as placeholder of our experiences with Ingram Plumbing in League City, Texas. It is intended to serve as a cautionary tale for those looking for honest contractor and plumbing work.</p>
                                 <div class="d-md-flex divcenter d-none categories-lists mt-5" style="width: 60%;">
                                     <div class="mr-auto">
@@ -84,49 +85,6 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="video-wrap" style="position: absolute; top: 0; left: 0; height: 100%; z-index:1;">
-                            <div class="video-overlay" style="background: rgba(0,0,0,0.5);"></div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide dark">
-                        <div class="container clearfix">
-                            <div class="slider-caption slider-caption-center">
-                                <h2>The Gym that has it all</h2>
-                                <div class="d-md-flex divcenter d-none categories-lists mt-5" style="width: 60%;">
-                                    <div class="mr-auto">
-                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>3 Months Contact</span>
-                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>Locker Facility</span>
-                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>1 Day Free Pass</span>
-                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>Steam Available</span>
-                                    </div>
-                                    <div class="">
-                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>1 User Valid</span>
-                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>Shower Room</span>
-                                        <span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>Free WiFi Access</span>
-                                    </div>
-                                </div>
-                                <div class="d-flex justify-content-center align-items-center divcenter categories-lists mt-4">
-                                    <div class="d-flex t600 ml-2 mb-0 p-2 h5 text-dark center justify-content-center align-items-center" style="background: url('demos/gym/images/brush.png')no-repeat center center / cover; width: 180px; height: 50px"><span class="align-self-center">$19.99/m</span></div>
-                                    <a href="#" class="button button-rounded button-large nott ml-4 align-self-center">Reserve Now</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="video-wrap">
-                            <div class="yt-bg-player customjs" data-quality="hd1080" data-start="19" data-volume="80" data-stop="52" data-mute="" data-video="http://youtu.be/G5eaRMifvPQ"></div>
-                            <div class="video-overlay" style="background: rgba(0,0,0,0.4);"></div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide dark" style="background-image: url('demos/gym/images/slider/3.jpg'); background-size: cover">
-                        <div class="container clearfix">
-                            <div class="slider-caption slider-caption-center">
-                                <h2>Only the Weak GiveUp</h2>
-                                <p class="categories-lists">Completely incubate worldwide users before imperatives.</p>
-                                <a href="#" class="button button-rounded button-large nott mt-4">Get Started</a>
-                            </div>
-                        </div>
-                        <div class="video-wrap" style="position: absolute; top: 0; left: 0; height: 100%; z-index:1;">
-                            <div class="video-overlay" style="background: rgba(0,0,0,0.25);"></div>
                         </div>
                     </div>
                 </div>
