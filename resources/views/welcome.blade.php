@@ -114,7 +114,7 @@
                                 </div>
                                 <p style="color: #777;" class="lead">In the summer of 2019, we noticed that the ceiling in our dining room was discolored. Fearing that the shower above the water mark was leaking and having recently used Ingram Plumbing to install a tankless water system, we called them to investigate the problem. The eventual conclusion was that the shower pan would have to be removed and replaced.</p>
                             </div>
-                            <div class="col-md-7 col-sm-5" style="background: url('https://ingramplumbing.s3.us-east-2.amazonaws.com/leak1.jpg') center bottom no-repeat; background-size: cover;>
+                            <div class="col-md-7 col-sm-5" style="background: url('https://ingramplumbing.s3.us-east-2.amazonaws.com/leak1.jpg') center bottom no-repeat; background-size: cover;"">
                             </div>
                         </div>
                     </div>
