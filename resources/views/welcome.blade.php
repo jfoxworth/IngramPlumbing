@@ -142,8 +142,6 @@
 								<p style="color: #777;" class="lead">It should be reiterated that we explicitely stated that the shower should have the pan, mortar bed, threshold, and anything else needed with the only remaining item being the installation of the tile. It was not stated, but assumed that a moisture barrier and anything else needed for inspections would be done.</p>
 
 							</div>
-							<div class="col-md-7 col-sm-5" style="background: url('https://ingramplumbing.s3.us-east-2.amazonaws.com/leak1.jpg') center bottom no-repeat; background-size: cover;"">
-							</div>
 						</div>
 					</div>
 				</div>
@@ -164,7 +162,7 @@
 
 
 
-				<div class="section nomargin" style="padding: 80px 0 180px;">
+				<div class="section nomargin" style="padding: 80px 0 100px;">
 					<div class="container clearfix">
 						<div class="row clearfix">
 							<div class="col-md-12 col-sm-12">
@@ -198,7 +196,7 @@
 
 
 
-				<div class="section nomargin" style="padding: 80px 0 180px;">
+				<div class="section nomargin" style="padding: 80px 0 100px;">
 					<div class="container clearfix">
 						<div class="row clearfix">
 							<div class="col-md-12 col-sm-12">
@@ -231,7 +229,7 @@
 
 
 
-				<div class="section nomargin" style="padding: 80px 0 180px;">
+				<div class="section nomargin" style="padding: 80px 0 100px;">
 					<div class="container clearfix">
 						<div class="row clearfix">
 							<div class="col-md-12 col-sm-12">
@@ -251,13 +249,33 @@
 
 							</div>
 						</div>
+
 						<div class="row clearfix">
-							<div class="col-md-6 col-sm-6" style="background: url('https://ingramplumbing.s3.us-east-2.amazonaws.com/shower8.jpg') center bottom no-repeat; background-size: cover;"">
-							</div>
-							<div class="col-md-6 col-sm-6" style="background: url('https://ingramplumbing.s3.us-east-2.amazonaws.com/shower14.jpg') center bottom no-repeat; background-size: cover;"">
-							</div>
+							<div class="col-md-6 col-sm-6"><img src='https://ingramplumbing.s3.us-east-2.amazonaws.com/shower8.jpg'></div>
+							<div class="col-md-6 col-sm-6"><img src='https://ingramplumbing.s3.us-east-2.amazonaws.com/shower14.jpg'></div>
 						</div>
+
+
+						<div class="row clearfix">
+							<div class="col-md-12 col-sm-12">
+								
+								<p style="color: #777;" class="lead">Four people showed up on Monday and worked until about noon. This included the master plumber, Richard Ingram. When they told me that they were finished, the shower was in the state given in the images below and available here and here.</p>
+
+								<p style="color: #777;" class="lead">When the workers left for the day, I took a look at some of the backer boards that put in place for the walls. What I found was that there were numerous holes that were drilled at the bottom of the wall - some within an inch of the liner. All in all, there were seven holes drilled through the backer board and left in place with as much as ¼ of an inch between the boards. The pencils show the holes and the popsicle sticks show the spaces. In some areas, the gaps were big enough to hold two popsicle sticks stacked up.</p>
+
+								<p style="color: #777;" class="lead">Typically, when a shower is built, complete pieces are placed at the bottom and as the second piece. Since these boards are 3ft wide, this places one seam in the area being hit by water. In this case, the smallest piece was put at the bottom - meaning two seams are exposed to water. </p>
+
+							</div>
+
+						</div>
+
+						<div class="row clearfix">
+							<div class="col-md-6 col-sm-6"><img src='https://ingramplumbing.s3.us-east-2.amazonaws.com/shower12.jpg'></div>
+							<div class="col-md-6 col-sm-6"><img src='https://ingramplumbing.s3.us-east-2.amazonaws.com/shower13.jpg'></div>
+						</div>
+
 					</div>
+
 				</div>
 
 
