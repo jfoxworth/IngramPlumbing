@@ -69,7 +69,7 @@
                         <div class="container clearfix">
                             <div class="slider-caption slider-caption-center">
                                 <h2>Ingram Plumbing</h2>
-                                <h3 style="#ccc">Our Experience</h3>
+                                <h3 style="color: #ccc">Our Experience</h3>
                                 <p class="categories-lists">This site serves as placeholder of our experiences with Ingram Plumbing in League City, Texas. It is intended to serve as a cautionary tale for those looking for honest contractor and plumbing work.</p>
                                 <div class="d-md-flex divcenter d-none categories-lists mt-5" style="width: 60%;">
                                     <div class="mr-auto">
@@ -103,16 +103,16 @@
         <section id="content">
             <div class="content-wrap notoppadding">
 
-                <div class="section nomargin" style="background: url('demos/gym/images/section/bg-1.jpg') center bottom no-repeat; background-size: cover; padding: 80px 0 180px;">
+                <div class="section nomargin" style="background: url('https://ingramplumbing.s3.us-east-2.amazonaws.com/leak1.jpg') center bottom no-repeat; background-size: cover; padding: 80px 0 180px;">
                     <div class="container clearfix">
                         <div class="row clearfix">
                             <div class="col-md-5 col-sm-7">
                                 <div class="notopmargin hidden-xs hidden-sm"></div>
                                 <div class="emphasis-title bottommargin-sm">
-                                    <span class="before-heading font-secondary">Retina Ready &#x7E; 534 PPI</span>
-                                    <h2 style="font-size: 46px;" class="font-body t700">Yesterday you said Tomorrow!</h2>
+                                    <span class="before-heading font-secondary">It begins</span>
+                                    <h2 style="font-size: 46px;" class="font-body t700">The leak!</h2>
                                 </div>
-                                <p style="color: #777;" class="lead">We all have the same amount of hours in our day.  Deciding how to use your hours is up to you.</p>
+                                <p style="color: #777;" class="lead">In the summer of 2019, we noticed that the ceiling in our dining room was discolored. Fearing that the shower above the water mark was leaking and having recently used Ingram Plumbing to install a tankless water system, we called them to investigate the problem. The eventual conclusion was that the shower pan would have to be removed and replaced.</p>
                             </div>
                         </div>
                     </div>
