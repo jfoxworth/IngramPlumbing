@@ -7,24 +7,30 @@
 
     <!-- Stylesheets
     ============================================= -->
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700|Roboto:300,400,700" rel="stylesheet" type="text/css" />
+    <link href="http://fonts.googleapis.com/css?family=Poppins:300,400,400italic,600,700%7CPlayfair+Display:400,400italic,700%7CLato:300,400,700" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
-    <link rel="stylesheet" href="css/style.css" type="text/css" />
+    <link rel="stylesheet" href="style.css" type="text/css" />
     <link rel="stylesheet" href="css/dark.css" type="text/css" />
+    <link rel="stylesheet" href="css/swiper.css" type="text/css" />
+
     <link rel="stylesheet" href="css/font-icons.css" type="text/css" />
-    <link rel="stylesheet" href="css/et-line.css" type="text/css" />
     <link rel="stylesheet" href="css/animate.css" type="text/css" />
     <link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
-    <link rel="stylesheet" href="css/swiper.css" type="text/css" />
+
+    <link rel="stylesheet" href="demos/gym/css/fonts.css" type="text/css" />
+
+    <!-- Bootstrap Switch CSS -->
     <link rel="stylesheet" href="css/components/bs-switches.css" type="text/css" />
 
     <link rel="stylesheet" href="css/responsive.css" type="text/css" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <link rel="stylesheet" href="css/fonts.css" type="text/css" />
+    <!-- Coffee Demo Specific Stylesheet -->
+    <link rel="stylesheet" href="demos/gym/gym.css" type="text/css" />
+    <!-- / -->
 
-    <link rel="stylesheet" href="css/responsive.css" type="text/css" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Color Scheme -->
+    <link rel="stylesheet" href="css/colors.php?color=1E8C93" type="text/css" />
 
 
     <!-- Document Title
@@ -44,7 +50,7 @@
 
         <!-- Slider
         ============================================= -->
-        <section id="slider" class="slider-element swiper_wrapper full-screen clearfix" data-loop="true">
+        <section id="slider" class="slider-element swiper_wrapper full-screen clearfix" data-loop="false">
 
             <div class="swiper-container swiper-parent">
                 <div class="swiper-wrapper">
