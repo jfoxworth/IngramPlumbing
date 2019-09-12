@@ -151,7 +151,7 @@
 				<div class="section topmargin bottommargin dark" style="padding: 80px 0px 80px;">
 					<div class="container clearfix">
 						<div class="row clearfix">
-							<h3>This is a cautionary tale about the dangers of immoral businesses. Make sure that you get everything in writing and that permits and inspections are carried out.</h3>
+							<h3>This is a cautionary tale about the dangers of immoral businesses. Ingram Plumbing saw us as an easy mark with insurance money there for the taking. Don't let this happen to you!!!</h3>
 						</div>
 					</div>
 				</div>
@@ -250,7 +250,7 @@
 							</div>
 						</div>
 
-						<div class="row clearfix">
+						<div class="row clearfix topmargin bottommargin">
 							<div class="col-md-6 col-sm-6"><img src='https://ingramplumbing.s3.us-east-2.amazonaws.com/shower8.jpg'></div>
 							<div class="col-md-6 col-sm-6"><img src='https://ingramplumbing.s3.us-east-2.amazonaws.com/shower14.jpg'></div>
 						</div>
@@ -269,7 +269,7 @@
 
 						</div>
 
-						<div class="row clearfix">
+						<div class="row clearfix topmargin bottommargin">
 							<div class="col-md-6 col-sm-6"><img src='https://ingramplumbing.s3.us-east-2.amazonaws.com/shower12.jpg'></div>
 							<div class="col-md-6 col-sm-6"><img src='https://ingramplumbing.s3.us-east-2.amazonaws.com/shower13.jpg'></div>
 						</div>
@@ -282,438 +282,294 @@
 
 
 
-
-				<div class="section dark nomargin" style="background-color: #111; padding: 20px 0;">
-					<div class="container clearfix">
-
-						<div class="heading-block center bottommargin-sm nobottomborder">
-							<h2 class="nott" style="font-size: 46px;">It Becomes an Addition.</h2>
-							<span>If you want to know more about our membership package, then don't hesitate to contact us.</span>
-						</div>
-
-						<div class="row topmargin-sm">
-
-							<div class="col-md-4 col-sm-6">
-
-								<div class="feature-box fbox-dark fbox-effect fbox-right topmargin-lg" data-animate="fadeIn">
-									<div class="fbox-icon">
-										<a href="#"><i class="icon-line-heart"></i></a>
-									</div>
-									<h3>Boxed &amp; Wide Layouts</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore vero dignissimos, ipsa reiciendis quaerat.</p>
-								</div>
-
-								<div class="feature-box fbox-dark fbox-effect fbox-right topmargin" data-animate="fadeIn" data-delay="200">
-									<div class="fbox-icon">
-										<a href="#"><i class="icon-line-paper"></i></a>
-									</div>
-									<h3>Extensive Documentation</h3>
-									<p>We have covered each &amp; everything in our Docs including Videos &amp; Screenshots.</p>
-								</div>
-
-								<div class="feature-box fbox-dark fbox-effect fbox-right topmargin" data-animate="fadeIn" data-delay="400">
-									<div class="fbox-icon">
-										<a href="#"><i class="icon-line-layers"></i></a>
-									</div>
-									<h3>Parallax Support</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat nobis maiores recusandae repellendus, tempora laudantium.</p>
-								</div>
-
-							</div>
-
-							<div class="col-md-4 hidden-sm bottommargin center">
-								<img src="demos/gym/images/others/workout-couple.png" alt="workout">
-							</div>
-
-							<div class="col-md-4 col-sm-6 bottommargin">
-
-								<div class="feature-box fbox-dark fbox-effect topmargin-lg" data-animate="fadeIn">
-									<div class="fbox-icon">
-										<a href="#"><i class="icon-line-power"></i></a>
-									</div>
-									<h3>HTML5 Video</h3>
-									<p>Canvas provides support for Native HTML5 Videos that can be added to a Background.</p>
-								</div>
-
-								<div class="feature-box fbox-dark fbox-effect topmargin" data-animate="fadeIn" data-delay="200">
-									<div class="fbox-icon">
-										<a href="#"><i class="icon-line-check"></i></a>
-									</div>
-									<h3>Endless Possibilities</h3>
-									<p>Complete control on each &amp; every element that provides endless customization.</p>
-								</div>
-
-								<div class="feature-box fbox-dark fbox-effect topmargin" data-animate="fadeIn" data-delay="400">
-									<div class="fbox-icon">
-										<a href="#"><i class="icon-bulb"></i></a>
-									</div>
-									<h3>Light &amp; Dark Color Schemes</h3>
-									<p>Change your Website's Primary Scheme instantly by simply adding the dark class.</p>
-								</div>
-
-							</div>
-
-						</div>
-
-					</div>
-				</div>
-
-				<div class="section nomargin">
-					<div class="container clearfix">
-						<div class="divcenter center" style="max-width: 900px;">
-							<h2 style="font-size: 42px;" class="nobottommargin t700 ls1">Gallery</h2>
-							<span style="font-size: 16px;" class="t300 capitalize ls1 notopmargin">When the Gym Becomes your Second Home.</span>
-						</div>
-					</div>
-				</div>
-				<div class="masonry-thumbs grid-4" data-lightbox="gallery">
-					<a href="demos/gym/images/gallery/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="demos/gym/images/gallery/1.jpg" alt="Gallery Thumb 1"><i class="icon-resize-full"></i></a>
-					<a href="demos/gym/images/gallery/2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="demos/gym/images/gallery/2.jpg" alt="Gallery Thumb 2"><i class="icon-resize-full"></i></a>
-					<a href="demos/gym/images/gallery/3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="demos/gym/images/gallery/3.jpg" alt="Gallery Thumb 3"><i class="icon-resize-full"></i></a>
-					<a href="demos/gym/images/gallery/4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="demos/gym/images/gallery/4.jpg" alt="Gallery Thumb 4"><i class="icon-resize-full"></i></a>
-					<a href="demos/gym/images/gallery/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="demos/gym/images/gallery/5.jpg" alt="Gallery Thumb 5"><i class="icon-resize-full"></i></a>
-					<a href="demos/gym/images/gallery/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="demos/gym/images/gallery/6.jpg" alt="Gallery Thumb 6"><i class="icon-resize-full"></i></a>
-					<a href="demos/gym/images/gallery/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="demos/gym/images/gallery/7.jpg" alt="Gallery Thumb 7"><i class="icon-resize-full"></i></a>
-					<a href="demos/gym/images/gallery/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="demos/gym/images/gallery/8.jpg" alt="Gallery Thumb 9"><i class="icon-resize-full"></i></a>
-				</div>
-
-				<div class="section nomargin" style="padding: 80px 0;">
+				<div class="section nomargin" style="padding: 80px 0 100px;">
 					<div class="container clearfix">
 						<div class="row clearfix">
-
-							<div class="col-md-6">
-								<div class="hidden-xs hidden-sm hidden-md topmargin-lg"></div>
+							<div class="col-md-12 col-sm-12">
+								<div class="notopmargin hidden-xs hidden-sm"></div>
 								<div class="emphasis-title bottommargin-sm">
-									<h2 style="font-size: 38px;" class="font-body t600">Weight-loss Programing</h2>
+									<span class="before-heading font-secondary"></span>
+									<h2 style="font-size: 46px;" class="font-body t700">Refusing to pay</h2>
 								</div>
-								<p style="color: #777; margin-bottom: 25px;" class="lead">Compellingly generate interactive mindshare without intermandated quality vectors. Professionally implement ethical.</p>
-								<button type="submit" class="t400 capitalize button button-dark button-large button-circle nomargin" value="submit">Register Now</button>
+								
+								<p style="color: #777;" class="lead">On Tuesday, John Ingram returned to retrieve the stopper for the flood test and get the remainder of his pay. When he did, I asked him again if the small amount of water in the pan was intended to be the flood test and if so, was this up to code. He assured me in no uncertain terms that this was a proper flood test. He also again assured me that there was wood behind both walls to hold the frameless door system.</p>
+
+								<p style="color: #777;" class="lead">I confronted him with the fact that there should have been at least an inch of water in the pan for the flood test and that there were holes drilled far too low. His response was that they ran the flood test that way because I was in a hurry with no explanation as to what that meant. He also stated that while there were numerous holes drilled in the backer board below the allowable level, they did not go through the liner. He stated that the board had been drilled into other parts of the shower or upside down and then removed and replaced into that location.</p>
+
+								<p style="color: #777;" class="lead">I pointed out that lying about the flood test coupled with the holes led me to believe that he knew that the liner had been punctured and that he didn’t run the test because he knew it would leak.</p>
+
+								<p style="color: #777;" class="lead">At this point, he reasserted that the flood test was not properly run because we were in a hurry and he was trying to get it done in time to let us tile. He then asserted that everything (including the test) was done to code. I have no explanation for this.</p>
+
+								<p style="color: #777;" class="lead">In my opinion, there were at least two reasons why Ingram Plumbing did not run the test properly. The first is that they knew the liner had been punctured by at least one of the holes. The second was that they had just epoxied backer board onto the threshold that day and submerging it in water would have ruined that epoxy and the board holding it in place. ( The board sitting on the right side of the shower was put in place to hold the backer board in place while it dried. ) </p>
+
+								<p style="color: #777;" class="lead">After this, I again asked Ingram to run the flood test properly and they refused - stating that it would require them to remove the walls and threshold backer board and that this would cause them to lose money. I made this request no less than 3 separate times and was outright refused each time. They stated that they had already given us too good of a deal on the shower and would not do anything else.</p>
+
 							</div>
 
-							<div class="hidden-lg hidden-md topmargin-sm"></div>
-							<div class="col-md-6">
-								<div class="twentytwenty-container" style="box-shadow: 0 1px 8px 0 rgba(0,0,0,0.3);">
-									<img src="demos/gym/images/compared-img/1_1.jpg" alt="Image 1" />
-									<img src="demos/gym/images/compared-img/1_2.jpg" alt="Image 2" />
-								</div>
-							</div>
-
-						</div>
-					</div>
-				</div>
-
-				<div class="row dark align-items-stretch bottommargin clearfix">
-					<div class="col-sm-6" style="background: url('demos/gym/images/section/2.jpg') center left no-repeat; background-size: cover; padding: 80px;">
-						<div class="d-flex align-items-start flex-column" style="height: 400px;">
-							<div class="mb-auto heading-block nobottomborder">
-								<h3>Heavy Weight Workout</h3>
-								<span>That Feeling after an amazing Workout</span>
-							</div>
-							<p class="t300 mb-2">Distinctively drive interdependent services for backward-compatible initiatives. Synergistically architect sustainable deliverables and ethical initiatives. Objectively procrastinate an expanded.</p>
-							<a class="button button-border-icon" href="https://www.youtube.com/watch?v=zBrAbpOt-WY" data-lightbox="iframe"><i class="icon-play"></i><span>Play Video</span></a>
-						</div>
-					</div>
-					<div class="col-sm-6" style="background: url('demos/gym/images/section/3.jpg') center center no-repeat; background-size: cover; padding: 80px;">
-						<div class="d-flex align-items-start flex-column" style="height: 400px;">
-							<div class="mb-auto heading-block nobottomborder">
-								<h3>Weight Loss Programing</h3>
-								<span>Be So Good They Can't Ignore You</span>
-							</div>
-							<p class="t300 mb-2">Distinctively drive interdependent services for backward-compatible initiatives. Synergistically architect sustainable deliverables and ethical initiatives. Objectively procrastinate.</p>
-							<a class="button button-border-icon" href="https://www.youtube.com/watch?v=2uL0ayEbQ5c" data-lightbox="iframe"><i class="icon-play"></i><span>Play Video</span></a>
-						</div>
-					</div>
-				</div>
-
-				<div class="container clearfix">
-					<div class="heading-block nobottomborder center">
-						<h2 style="font-size: 42px;" class="nobottommargin nott t700 ls1">Professional Trainers</h2>
-						<span style="font-size: 16px;" class="t300 capitalize ls1 notopmargin">Get Started within 5 Minutes.</span>
-					</div>
-				</div>
-
-				<div class="portfolio portfolio-3 portfolio-full grid-container portfolio-nomargin clearfix">
-
-					<article class="portfolio-item pf-media pf-icons">
-						<div class="portfolio-image">
-							<a href="#">
-								<img src="demos/gym/images/team/1.jpg" alt="Roberto Wilkins">
-								<div class="portfolio-overlay">
-									<div class="portfolio-desc">
-										<h3 style="font-size: 32px;">Roberto Wilkins</h3>
-										<span>Senior Trainer</span>
-									</div>
-								</div>
-							</a>
-						</div>
-					</article>
-
-					<article class="portfolio-item pf-media pf-icons">
-						<div class="portfolio-image">
-							<a href="#">
-								<img src="demos/gym/images/team/2.jpg" alt="Juana Bailey">
-								<div class="portfolio-overlay">
-									<div class="portfolio-desc">
-										<h3 style="font-size: 32px;">Juana Bailey</h3>
-										<span>Women Trainer</span>
-									</div>
-								</div>
-							</a>
-						</div>
-					</article>
-
-					<article class="portfolio-item pf-media pf-icons">
-						<div class="portfolio-image">
-							<a href="#">
-								<img src="demos/gym/images/team/3.jpg" alt="Derrick Foster">
-								<div class="portfolio-overlay">
-									<div class="portfolio-desc">
-										<h3 style="font-size: 32px;">Derrick Foster</h3>
-										<span>Junior Trainer</span>
-									</div>
-								</div>
-							</a>
-						</div>
-					</article>
-
-				</div>
-
-				<div class="section nomargin nopadding" style="background: url('demos/gym/images/section/bg-2.jpg') center center no-repeat; background-size: cover;">
-					<div class="section nomargin" style="background: rgba(0,0,0,0.3);">
-						<div class="container clearfix">
-							<div class="heading-block dark nobottomborder nobottommargin center">
-								<h2 style="font-size: 40px;" class="nott t700 ls1">Our Membership Plan</h2>
-								<span style="font-size: 16px;" class="t300 capitalize ls1">Efficiently network state of the art markets for scalable applications. Professionally engineer business e-tailers for resource sucking e-commerce.</span>
-							</div>
-						</div>
-					</div>
-
-					<div class="section nomargin nobg">
-						<div class="container clearfix">
-							<div class="svg-discount"></div>
-							<div class="pricing-tenure-switcher center bottommargin-sm" data-container="#pricing-switch">
-								<span class="pts-left">Monthly</span>
-								<div class="pts-switcher">
-									<div class="switch">
-										<input id="switch-toggle-pricing-tenure" class="switch-toggle switch-toggle-round" type="checkbox">
-										<label for="switch-toggle-pricing-tenure"></label>
-									</div>
-								</div>
-								<span class="pts-right">Annualy</span>
-							</div>
-
-							<div id="pricing-switch" class="pricing row bottommargin-sm clearfix">
-
-								<div class="col-lg-4 col-md-6">
-
-									<div class="pricing-box">
-										<div class="pricing-title">
-											<h3>Starter</h3>
-										</div>
-										<div class="pricing-price">
-											FREE<span class="price-tenure">Limited Access</span>
-										</div>
-										<div class="pricing-features">
-											<ul>
-												<li><strong>All Items</strong> Access</li>
-												<li><strong>5</strong> Days Access</li>
-												<li><strong>1</strong> User Valid</li>
-												<li>No<strong> Locker-Room</strong></li>
-												<li>No<strong> Steam</strong> Room</li>
-											</ul>
-										</div>
-										<div class="pricing-action">
-											<a href="#" data-pricing-plan="Starter Plan" class="button button-large button-dark button-rounded capitalize button-circle ls0">Get Free Trail</a>
-										</div>
-									</div>
-
-								</div>
-
-								<div class="col-lg-4 col-md-6">
-
-									<div class="pricing-box price-best">
-										<div class="price-label">
-											<span>Popular</span>
-										</div>
-										<div class="pricing-title">
-											<h3>Professional</h3>
-										</div>
-										<div class="pricing-price">
-											<div class="pts-switch-content-left"><span class="price-unit">&dollar;</span>12<span class="price-tenure">Monthly</span></div>
-											<div class="pts-switch-content-right"><span class="price-unit">&dollar;</span>99<span class="price-tenure">Yearly</span></div>
-										</div>
-										<div class="pricing-features">
-											<ul>
-												<li><strong>All Items</strong> Access</li>
-												<li class="pts-switch-content-left"><strong>1</strong> Month Access</li>
-												<li class="pts-switch-content-right"><strong>1</strong> Year Access</li>
-												<li><strong>1</strong> User Valid</li>
-												<li><strong>Locker-Room</strong> Available</li>
-												<li><strong>Steam</strong> Available</li>
-											</ul>
-										</div>
-										<div class="pricing-action">
-											<div class="pts-switch-content-left"><a href="#" data-pricing-plan="Professional Monthly Plan" class="button button-large button-circle button-dark capitalize ls0">Get Started</a></div>
-											<div class="pts-switch-content-right"><a href="#" data-pricing-plan="Professional Yearly Plan" class="button button-large button-circle button-dark capitalize ls0">Get Started</a></div>
-										</div>
-									</div>
-
-								</div>
-
-								<div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
-
-									<div class="pricing-box">
-										<div class="pricing-title">
-											<h3>Yoga</h3>
-										</div>
-										<div class="pricing-price">
-											<div class="pts-switch-content-left"><span class="price-unit">&dollar;</span>19<span class="price-tenure">Monthly</span></div>
-											<div class="pts-switch-content-right"><span class="price-unit">&dollar;</span>149<span class="price-tenure">Yearly</span></div>
-										</div>
-										<div class="pricing-features">
-											<ul>
-												<li><strong>All Items</strong> Access</li>
-												<li class="pts-switch-content-left"><strong>1</strong> Month Access</li>
-												<li class="pts-switch-content-right"><strong>1</strong> Year Access</li>
-												<li>1 <strong>Personal Trainer</strong></li>
-												<li><strong>Locker-Room</strong> Available</li>
-												<li><strong>Steam</strong> Available</li>
-											</ul>
-										</div>
-										<div class="pricing-action">
-											<div class="pts-switch-content-left"><a href="#" data-pricing-plan="Business Monthly Plan" class="button button-large button-circle button-dark capitalize ls0">Get Started</a></div>
-											<div class="pts-switch-content-right"><a href="#" data-pricing-plan="Business Yearly Plan" class="button button-large button-circle button-dark capitalize ls0">Get Started</a></div>
-										</div>
-									</div>
-
-								</div>
-
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="container clearfix">
-					<div class="row topmargin-lg clearfix">
-						<div class="col-md-5 offset-md-1 col-sm-6 mb-5">
-							<div class="media">
-								<i class="h3 icon-line2-check color mr-3"></i>
-								<div class="media-body">
-									<h4 class="mb-3 font-body">How do I become an author?</h4>
-									<p class="mb-0">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-5 col-sm-6 mb-5">
-							<div class="media">
-								<i class="h3 icon-line2-check color mr-3"></i>
-								<div class="media-body">
-									<h4 class="mb-3 font-body">How do I become an author?</h4>
-									<p class="mb-0">Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-5 col-sm-6 offset-md-1 mb-sm-0 mb-5">
-							<div class="media">
-								<i class="h3 icon-line2-check color mr-3"></i>
-								<div class="media-body">
-									<h4 class="mb-3 font-body">How much money can I make?</h4>
-									<p class="mb-0 ">Credibly evolve client-focused convergence rather than leveraged quality vectors. Authoritatively provide access to market-driven manufactured products with standardized initiatives.</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-5 col-sm-6">
-							<div class="media">
-								<i class="h3 icon-line2-check color mr-3"></i>
-								<div class="media-body">
-									<h4 class="mb-3 font-body">Can I offer my items for free on a promotional basis?</h4>
-									<p class="mb-0">Laboriosam iusto quia nulla ad voluptatibus iste beatae voluptas corrupti facilis accusamus recusandae sequi debitis reprehenderit quibusdam. Facilis eligendi a exercitationem nisi et placeat excepturi velit!</p>
-								</div>
-							</div>
 						</div>
 
-					</div>
-				</div>
-			</div>
-		</section><!-- #content end -->
-
-		<!-- Footer
-		============================================= -->
-		<footer id="footer" class="noborder" style="background: url('demos/gym/images/section/1.jpg') center bottom no-repeat; background-size: cover;">
-
-			<div class="container clearfix">
-
-				<!-- Footer Widgets
-				============================================= -->
-				<div class="footer-widgets-wrap clearfix">
-
-					<div class="row widget clearfix">
-
-						<div class="tleft col-sm-4">
-							<h4 style="font-size: 22px;">Book your Free Trial</h4>
-							<form action="#" class="mb-1 clearfix" style="max-width: 300px;">
-								<div class="col_full">
-									<label for="template-footer-form-email" class="capitalize t600">Username or Email</label>
-									<input type="email" id="template-footer-form-email" name="template-footer-form-email" value="" class="form-control not-dark" />
-								</div>
-								<div class="col_full">
-									<label for="template-footer-form-password" class="capitalize t600 topmargin-sm">Choose Password</label>
-									<input type="password" id="template-footer-form-password" name="template-footer-form-password" value="" class="form-control not-dark" />
-								</div>
-								<div class="col_full nobottommargin topmargin-sm">
-									<button type="submit" class="t400 capitalize button button-border button-dark button-circle nomargin" value="submit">Register Now</button>
-								</div>
-							</form>
-							<p class="nobottommargin"><small class="t300"><em>We Keep Your Information Secret.*</em></small></p>
-						</div>
-
-						<div class="tleft col-sm-4">
-							<h4 style="font-size: 22px;">Location:</h4>
-							<address>
-								795 Folsom Ave, Suite 600<br>
-								San Francisco, CA 94107<br>
-							</address>
-							<abbr title="Phone Number"><strong>Phone:</strong></abbr> (91) 8547 632521<br>
-							<abbr title="Fax"><strong>Fax:</strong></abbr> (91) 11 4752 1433<br>
-							<abbr title="Email Address"><strong>Email:</strong></abbr> info@canvas.com<br>
-							<div class="clear"></div>
-							<a href="#" class="social-icon si-colored si-small si-rounded si-facebook nobottommargin" style="margin: 10px 10px 0 0;">
-								<i class="icon-facebook"></i>
-								<i class="icon-facebook"></i>
-							</a>
-							<a href="#" class="social-icon si-colored si-small si-rounded si-twitter nobottommargin" style="margin: 10px 10px 0 0;">
-								<i class="icon-twitter"></i>
-								<i class="icon-twitter"></i>
-							</a>
-							<a href="#" class="social-icon si-colored si-small si-rounded si-instagram nobottommargin" style="margin: 10px 10px 0 0;">
-								<i class="icon-instagram2"></i>
-								<i class="icon-instagram2"></i>
-							</a>
-							<a href="#" class="social-icon si-colored si-small si-rounded si-github nobottommargin" style="margin: 10px 10px 0 0;">
-								<i class="icon-github2"></i>
-								<i class="icon-github2"></i>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<!-- Copyrights
-			============================================= -->
-			<div id="copyrights" class="center" style="background-color: #FFF;">
-
-				<div class="container clearfix">
-
-					<div class="clearfix">
-						Copyrights &copy; 2016 All Rights Reserved by Canvas Inc.<br>
-						<div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>
 					</div>
 
 				</div>
 
-			</div><!-- #copyrights end -->
 
-		</footer><!-- #footer end -->
+
+
+
+
+				<div class="section nomargin" style="padding: 80px 0 100px;">
+					<div class="container clearfix">
+						<div class="row clearfix">
+							<div class="col-md-12 col-sm-12">
+								<div class="notopmargin hidden-xs hidden-sm"></div>
+								<div class="emphasis-title bottommargin-sm">
+									<span class="before-heading font-secondary">"Tile Work" isn't Tile Work</span>
+									<h2 style="font-size: 46px;" class="font-body t700">The Mortar Bed</h2>
+								</div>
+
+
+								<p style="color: #777;" class="lead">When Ingram Plumbing presented us with the bill, I noted that the mortar bed had not been poured. At this time, John Ingram told us that he did not believe that this was part of the contract. He stated that the phrase “ready to tile” or “ready for tile work” was used by him and other plumbers to get the shower to a state where a tile worker comes in to pour the mortar bed and then tile.</p>
+
+								<p style="color: #777;" class="lead">We explained that we understood that there may be a specific use for this term in industry, but that we were very explicit that pouring the pan and the mortar bed were the two things that we wanted done. We noted that if Ingram Plumbing did not intend to do the mortar bed, they should have stated that when we explicitly confirmed with them that this was to be done instead of just writing the contract in such a way as to avoid that work.</p>
+
+								<p style="color: #777;" class="lead">John Ingram again stated that this was just a misunderstanding on our part and that he would not be doing any more work.</p>
+
+								<p style="color: #777;" class="lead">Again, we were explicit on multiple occasions that the pan, the mortar bed, and the inspections were the reasons for hiring a contractor to build the shower in the first place and that this was the work that we wanted to be done.</p>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+
+
+
+
+				<div class="section nomargin" style="padding: 80px 0 100px;">
+					<div class="container clearfix">
+						<div class="row clearfix">
+							<div class="col-md-12 col-sm-12">
+								<div class="notopmargin hidden-xs hidden-sm"></div>
+								<div class="emphasis-title bottommargin-sm">
+									<span class="before-heading font-secondary"></span>
+									<h2 style="font-size: 46px;" class="font-body t700">The Walls, Threshold, and sloppy work</h2>
+								</div>
+
+
+								<p style="color: #777;" class="lead">As can be seen in the images above, the threshold is made from 2x4s with the liner pulled over them and backer board epoxied onto the liner. This is not the correct way to build a threshold. Thresholds are made with a reinforced mesh that the mortar is poured over.</p>
+
+								<p style="color: #777;" class="lead">The backer board walls built by Ingram Plumbing come down to the liner. The walls of the shower should not come down this far as they would place them in the poured mortar bed.</p>
+
+								<p style="color: #777;" class="lead">Cutting the walls this way and building the threshold out of backer board means that the walls and the threshold will create a channel between the pan liner and the mortar bed which always holds water. This water will creep up the walls and over the threshold to rot the 2x4s in the walls and the wood flooring under the threshold.</p>
+
+								<p style="color: #777;" class="lead">While not deal breakers, there are a number of issues with the work that was done just being sloppy. One example is this space near the floor. It is one inch wide. Clearly, the board was cut wrong and the worker just decided to go with it. I guess that the idea was that someone would just fill it with mortar.</p>
+
+
+							</div>
+
+						</div>
+
+						<div class="row clearfix topmargin bottommargin">
+							<div class="col-md-6 col-sm-6"><img src='https://ingramplumbing.s3.us-east-2.amazonaws.com/shower16.jpg'></div>
+							<div class="col-md-6 col-sm-6"><img src='https://ingramplumbing.s3.us-east-2.amazonaws.com/shower17.jpg'></div>
+						</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+
+
+				<div class="section nomargin" style="padding: 80px 0 100px;">
+					<div class="container clearfix">
+						<div class="row clearfix">
+							<div class="col-md-12 col-sm-12">
+								<div class="notopmargin hidden-xs hidden-sm"></div>
+								<div class="emphasis-title bottommargin-sm">
+									<span class="before-heading font-secondary">Let's come to a deal. Not that deal.</span>
+									<h2 style="font-size: 46px;" class="font-body t700">Follow up discussions</h2>
+								</div>
+
+
+								<p style="color: #777;" class="lead">John Ingram then made the offer to part ways with him keeping the first half of the money in exchange for not doing any more work and not coming back to perform a proper flood test. I told him that I would have to think about it as this still left me with no shower.</p>
+
+								<p style="color: #777;" class="lead">On Monday, July 8, he contacted me again and demanded full payment. He refused to redo any work or to do any additional work, but offered to do a flood test the next day and to bring in a city inspector to witness the test the next day.</p>
+
+								<p style="color: #777;" class="lead">During the conversation, John Ingram again blamed my schedule for the poor work and not running the test properly and then again simultaneously stated that he had run everything up to code. Both he and Master Plumber Richard Ingram agreed that code required them to run a flood test with inches of water in the pan and with an inspection, but then insisted that their work was up to code. More than 5 times during this conversation, John Ingram stated that the cost of the shower was already too low and that he simply could not do any more work or redo any work. When I explained to him that the best course of action was to take his offer to simply part ways, he told me that this previous offer was “rescinded”.</p>
+
+								<p style="color: #777;" class="lead">At this point, I explained to John Ingram that because he repeatedly behaved in this manner, I did not wish to continue the conversation as I simply could not trust him at his word.</p>
+
+								<p style="color: #777;" class="lead">After this, John Ingram told me that I was being unreasonable. He offered to come to the house, redo the flood test, apply a moisture barrier, and pour the mortar bed. I then stated that this was directly counter to his previous assertions that he was unable to do any more work or he would lose money. I stated that I was not inclined to believe the validity of an offer like that made by someone who had just withdrew an offer less than a minute prior. I also noted that less than a week before, John Ingram had told me that he had never heard of a moisture barrier and now he was asking me to let him install one. His response was that he had “educated himself” on the systems. </p>
+
+								<p style="color: #777;" class="lead">I do not believe that this offer was made in good faith. It was only made after I told him that the company would not be allowed back onto the property due to their malfeasance. He only made the offer so that he could say that he made it and he had no intention of doing any work.</p>
+
+								<p style="color: #777;" class="lead">I am now left with a pan that I paid more $2,800 to build which the builder refused to run a proper test on; and a walled in shower that has no inspection for the pipes or the flood test. I have to redo the work on the walls so that the mortar bed can be laid properly. I have to build the threshold properly and to replace the backer boards to remove the holes and the spaces. Hopefully, at that time I can confirm that there are, or are not, holes drilled through the liner.</p>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+
+
+				<div class="section nomargin" style="padding: 80px 0 100px;">
+					<div class="container clearfix">
+						<div class="row clearfix">
+							<div class="col-md-12 col-sm-12">
+								<div class="notopmargin hidden-xs hidden-sm"></div>
+								<div class="emphasis-title bottommargin-sm">
+									<span class="before-heading font-secondary">The contract says it, but we don't have to do it.</span>
+									<h2 style="font-size: 46px;" class="font-body t700">Joist Work</h2>
+								</div>
+
+
+								<p style="color: #777;" class="lead">As seen in the contract, Ingram Plumbing asserted that repairs needed to be done to the floor joists. In my understanding, this was the primary reason as to why the cost of the repair was so high as I would typically expect $6,000 to cover the complete rebuild of a shower - including tile.</p> 
+
+								<p style="color: #777;" class="lead">Had I known that no joist would be touched, I would not have accepted the contract.</p>
+
+								<p style="color: #777;" class="lead">As seen in the images below, the molded joist that I expected to be addressed was left in place and the only work done was to replace a portion of the rotten floor. There is still water stained and rotted wood for 3 - 6 inches in each direction around the replaced section. I cannot say whether or not these joists needed to be repaired. What I can say is that John Ingram and the contract clearly stated that joist work was needed - so either needed work was not done, or the contract is deliberately misleading as to what was needed. This misleading amount of work was to justify the full amount of the insurance claim for a busted shower without actually having to rebuild a shower.</p>
+
+
+								<p style="color: #777;" class="lead">The first image shows the initial hole cut into the floor with two joists. The second image shows a closer view of the patched section of the floor.</p>
+
+							</div>
+
+						</div>
+
+						<div class="row clearfix topmargin bottommargin">
+							<div class="col-md-6 col-sm-6"><img src='https://ingramplumbing.s3.us-east-2.amazonaws.com/shower15.jpg'></div>
+							<div class="col-md-6 col-sm-6"><img src='https://ingramplumbing.s3.us-east-2.amazonaws.com/shower9.jpg'></div>
+						</div>
+
+					</div>
+
+				</div>
+
+
+
+
+
+
+
+
+				<div class="section nomargin" style="padding: 80px 0 100px;">
+					<div class="container clearfix">
+						<div class="row clearfix">
+							<div class="col-md-12 col-sm-12">
+								<div class="notopmargin hidden-xs hidden-sm"></div>
+								<div class="emphasis-title bottommargin-sm">
+									<span class="before-heading font-secondary"></span>
+									<h2 style="font-size: 46px;" class="font-body t700">No permit was ever filed</h2>
+								</div>
+
+
+								<p style="color: #777;" class="lead">On Tuesday, July 9, I contacted the League City offices in an attempt to get an inspector to come to the house and look at the shower. At this time, I was informed that no permit existed for work at our house or at any address on our street through Ingram Plumbing. The inspector therefore refused to come out.</p>
+
+								<p style="color: #777;" class="lead">The contract clearly states that the last 10% of the payment would be given when the inspections were carried out. Those inspections cannot be done without a permit and Ingram Plumbing never filed for one - yet asked for full payment without a permit or inspections in violation of the contract.</p>
+
+								<p style="color: #777;" class="lead">As previously stated, when I refused to let Ingram Plumbing back into the house, John Ingram  offered to come out, run a flood test, and get an inspector in the same day. The permitting office for League City flatly told me that this was an almost impossible scenario and that it would likely take a day or two to get the permit processed and get an inspector out. This means that either Ingram Plumbing’s offer was just completely bogus or that they intended to bring someone other than the city inspector out.</p>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+
+
+
+
+
+				<div class="section nomargin" style="padding: 80px 0 100px;">
+					<div class="container clearfix">
+						<div class="row clearfix">
+							<div class="col-md-12 col-sm-12">
+								<div class="notopmargin hidden-xs hidden-sm"></div>
+								<div class="emphasis-title bottommargin-sm">
+									<span class="before-heading font-secondary"></span>
+									<h2 style="font-size: 46px;" class="font-body t700">Overbilling of Hours</h2>
+								</div>
+
+
+								<p style="color: #777;" class="lead">On July 2, John Ingram presented us with the final bill. It was for the full amount despite the fact that no inspections were carried out. It also denotes 48 hours were billed. 24 of those hours are for Mechanics and 24 for helpers. If this were true, it would be an hourly rate of $119.</p>
+
+								<p style="color: #777;" class="lead">However, I work at home and was present for all work. A generous estimate of the work done at our house is still less than 30 man hours. This would be an hourly rate of $190 even if the work done had been done properly - which it was not. In addition to this, despite them telling us that they have built 70+ showers, that service isn’t even listed on their website.</p>
+
+								<p style="color: #777;" class="lead">As noted previously, about half a day’s work was done on Wednesday the 26th or July, a full day’s work for the 27th, and then about 3.5 hours for roughly four people on Monday July 1st. This is a total or roughly 26 hours. Adding a few hours for people coming in and out would place this at 30 hours - meaning that the hours charged for this project was roughly 1.6 times the actual hours worked and even that was done at the absurd rate above.</p>
+
+							</div>
+
+						</div>
+
+
+					</div>
+
+				</div>
+
+
+
+
+
+
+
+
+
+				<div class="section nomargin" style="padding: 80px 0 100px;">
+					<div class="container clearfix">
+						<div class="row clearfix">
+							<div class="col-md-12 col-sm-12">
+								<div class="notopmargin hidden-xs hidden-sm"></div>
+								<div class="emphasis-title bottommargin-sm">
+									<span class="before-heading font-secondary"></span>
+									<h2 style="font-size: 46px;" class="font-body t700">Pending Investigations</h2>
+								</div>
+
+
+								<p style="color: #777;" class="lead">A complaint was filed with the Texas State Plumbing board. They stated that if the plumber failed to get permits and inspections, he will be fined as this is illegal. Additionally, since the inspections were included in the bill as something that we were being charged with despite the fact that no effort was made to complete this task, additional actions must be taken. This is still pending.</p>
+
+								<p style="color: #777;" class="lead">Complaints are also being filed with the attorney generals office and a lawsuit is being prepared / carried out.</p>
+
+							</div>
+
+						</div>
+
+
+					</div>
+
+				</div>
+
+
+
+
+
+				<div class="section nomargin" style="padding: 80px 0 100px;">
+					<div class="container clearfix">
+						<div class="row clearfix">
+							<div class="col-md-12 col-sm-12">
+								<h2>You have better options than Ingram Plumbing. Don't be the next victim.</h2>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+
+
+
+			</section>
+
+		</div>
+
 
 	</div><!-- #wrapper end -->
 
