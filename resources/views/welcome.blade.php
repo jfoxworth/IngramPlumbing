@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="css/animate.css" type="text/css" />
     <link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
 
-    <link rel="stylesheet" href="demos/gym/css/fonts.css" type="text/css" />
+    <link rel="stylesheet" href="css/fonts.css" type="text/css" />
 
     <!-- Bootstrap Switch CSS -->
     <link rel="stylesheet" href="css/components/bs-switches.css" type="text/css" />
@@ -26,7 +26,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <!-- Coffee Demo Specific Stylesheet -->
-    <link rel="stylesheet" href="demos/gym/gym.css" type="text/css" />
+    <link rel="stylesheet" href="css/gym.css" type="text/css" />
     <!-- / -->
 
     <!-- Color Scheme -->
