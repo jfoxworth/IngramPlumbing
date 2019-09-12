@@ -71,6 +71,7 @@
 								<h2>Ingram Plumbing</h2>
 								<h3 style="color: #ccc">Our Experience</h3>
 								<p class="categories-lists">This site serves as placeholder of our experiences with Ingram Plumbing in League City, Texas. It is intended to serve as a cautionary tale for those looking for honest contractor and plumbing work.</p>
+								<p class="categories-lists">You have better options. Don't be the next victim of these practices.</p>
 								<div class="d-md-flex divcenter d-none categories-lists mt-5" style="width: 60%;">
 									<div class="mr-auto">
 										<span class="list-group-item h6 t300 py-2 px-1 nobg border-0"><i class="icon-line-plus mr-2"></i>No permits or inspections</span>
@@ -135,9 +136,9 @@
 
 								<p style="color: #777;" class="lead">For the first step, a USAA inspector came out and estimated a cost of $6273.72 to demo and repair the shower, repair the shower subfloor, repair the ceiling in the dining room, and to repair the walls in the closet that were cut open to find the leak.</p>
 
-								<p style="color: #777;" class="lead">Since we had worked with Ingram Plumbing in the past and they were placing the work at around $10,000, we had them put in an estimate to the insurance company. That work was carried out by John Ingram. Their initial bid of roughly $10,000 had no specifics. They spoke with our insurance and the two of them agreed that the previous amount of $6273 was correct. Looking back, the should have been a massive red flag.</p>
+								<p style="color: #777;" class="lead">Since we had worked with Ingram Plumbing in the past and they were placing the work at around $10,000, we had them put in an estimate to the insurance company. That work was carried out by John Ingram. Their initial bid of roughly $10,000 had no specifics. They spoke with our insurance and the two of them agreed that the previous amount of $6273 was correct. Looking back, that should have been a massive red flag.</p>
 
-								<p style="color: #777;" class="lead">Having done some work myself in the past, I chose to use this as a chance to remodel the bathroom. I initially looked at doing the entire remodel myself, but Ingram Plumber informed me that a permit and inspections were required for the shower. Given this, we decided to hire them to fix the structure and build the shower structure. We were explicit in two things - that permits and inspections were mandatory and that the shower should be built to a point where the only remaining work left would be to put the tile on the walls.</p>
+								<p style="color: #777;" class="lead">Having done some work myself in the past, I chose to use this as a chance to remodel the bathroom. I initially looked at doing the entire remodel myself, but Ingram Plumber informed me that a permit and inspections were required for the shower. Given this, we decided to hire them to fix the floor structure and build the shower structure. We were explicit in two things - that permits and inspections were mandatory and that the shower should be built to a point where the only remaining work left would be to put the tile on the walls.</p>
 
 								<p style="color: #777;" class="lead">It should be reiterated that we explicitely stated that the shower should have the pan, mortar bed, threshold, and anything else needed with the only remaining item being the installation of the tile. It was not stated, but assumed that a moisture barrier and anything else needed for inspections would be done.</p>
 
@@ -410,6 +411,8 @@
 
 								<p style="color: #777;" class="lead">I am now left with a pan that I paid more $2,800 to build which the builder refused to run a proper test on; and a walled in shower that has no inspection for the pipes or the flood test. I have to redo the work on the walls so that the mortar bed can be laid properly. I have to build the threshold properly and to replace the backer boards to remove the holes and the spaces. Hopefully, at that time I can confirm that there are, or are not, holes drilled through the liner.</p>
 
+								<p style="color: #777;" class="lead">Since this time, we have gotten estimates to redo the shower in compliance with code. Estimates to redo what Ingram Plumbing did have been less than $1,100 - 1/5 the amount they tried to charge us.</p>
+
 							</div>
 
 						</div>
@@ -537,7 +540,11 @@
 
 								<p style="color: #777;" class="lead">A complaint was filed with the Texas State Plumbing board. They stated that if the plumber failed to get permits and inspections, he will be fined as this is illegal. Additionally, since the inspections were included in the bill as something that we were being charged with despite the fact that no effort was made to complete this task, additional actions must be taken. This is still pending.</p>
 
+
+								<p style="color: #777;" class="lead">On September 11, 2019 on the advice of the plumbers board, we asked Ingram Plumbing for a refund. They refused. When I asked them to reconsider, John Ingram claimed that asking for a refund was "borderline harassment". Calling a customer at 9pm at night, blaming them for the failure to complete the work, and demanding payment is fine, but a text asking for a refund is harassment.</p>
+
 								<p style="color: #777;" class="lead">Complaints are also being filed with the attorney generals office and a lawsuit is being prepared / carried out.</p>
+
 
 							</div>
 
@@ -565,6 +572,34 @@
 
 
 
+
+
+				<div class="section nomargin" style="padding: 80px 0 100px;">
+					<div class="container clearfix">
+						<div class="row clearfix">
+							<div class="col-md-12 col-sm-12">
+								<div class="notopmargin hidden-xs hidden-sm"></div>
+								<div class="emphasis-title bottommargin-sm">
+									<span class="before-heading font-secondary"></span>
+									<h2 style="font-size: 46px;" class="font-body t700">The Remodel</h2>
+								</div>
+
+
+								<p style="color: #777;" class="lead">Despite the shower issues, I continued on with the remodel. I moved the plumbing for the drains, moved the wires for the lights, put down new backerboard, tiled the floor, put in the vanities, and put wainscoting on the tub before painting. While falling victim to this has set our bathroom back several months, it hasn't stopped us.</p>
+
+
+							</div>
+
+						</div>
+
+						<div class="row clearfix topmargin bottommargin">
+							<div class="col-md-6 col-sm-6"><img src='https://ingramplumbing.s3.us-east-2.amazonaws.com/newBath1.jpg'></div>
+							<div class="col-md-6 col-sm-6"><img src='https://ingramplumbing.s3.us-east-2.amazonaws.com/newBath2.jpg'></div>
+						</div>
+
+					</div>
+
+				</div>
 
 			</section>
 
