@@ -103,7 +103,7 @@
         <section id="content">
             <div class="content-wrap notoppadding">
 
-                <div class="section nomargin" style="background: url('https://ingramplumbing.s3.us-east-2.amazonaws.com/leak1.jpg') center bottom no-repeat; background-size: cover; padding: 80px 0 180px;">
+                <div class="section nomargin" style="padding: 80px 0 180px;">
                     <div class="container clearfix">
                         <div class="row clearfix">
                             <div class="col-md-5 col-sm-7">
@@ -113,6 +113,8 @@
                                     <h2 style="font-size: 46px;" class="font-body t700">The leak!</h2>
                                 </div>
                                 <p style="color: #777;" class="lead">In the summer of 2019, we noticed that the ceiling in our dining room was discolored. Fearing that the shower above the water mark was leaking and having recently used Ingram Plumbing to install a tankless water system, we called them to investigate the problem. The eventual conclusion was that the shower pan would have to be removed and replaced.</p>
+                            </div>
+                            <div class="col-md-7 col-sm-5" style="background: url('https://ingramplumbing.s3.us-east-2.amazonaws.com/leak1.jpg') center bottom no-repeat; background-size: cover;>
                             </div>
                         </div>
                     </div>
