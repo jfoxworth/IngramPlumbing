@@ -9,7 +9,7 @@
     ============================================= -->
     <link href="http://fonts.googleapis.com/css?family=Poppins:300,400,400italic,600,700%7CPlayfair+Display:400,400italic,700%7CLato:300,400,700" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
-    <link rel="stylesheet" href="style.css" type="text/css" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
     <link rel="stylesheet" href="css/dark.css" type="text/css" />
     <link rel="stylesheet" href="css/swiper.css" type="text/css" />
 
@@ -116,7 +116,7 @@
 
             <div class="swiper-container swiper-parent">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide dark" style="background-image: url('demos/gym/images/slider/1.jpg'); background-size: cover">
+                    <div class="swiper-slide dark" style="background-image: url('https://ingramplumbing.s3.us-east-2.amazonaws.com/showerDark.jpg'); background-size: cover">
                         <div class="container clearfix">
                             <div class="slider-caption slider-caption-center">
                                 <h2>You Earn Your Body.</h2>
